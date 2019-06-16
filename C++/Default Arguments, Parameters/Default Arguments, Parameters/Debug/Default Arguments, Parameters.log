@@ -1,0 +1,8 @@
+﻿  Default Arguments, Parameters.cpp
+C:\Users\lpran\Desktop\Coding\Projects\Learning\C++\Default Arguments, Parameters\Default Arguments, Parameters\Default Arguments, Parameters.cpp(9,12): warning C4244:  "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+C:\Users\lpran\Desktop\Coding\Projects\Learning\C++\Default Arguments, Parameters\Default Arguments, Parameters\Default Arguments, Parameters.cpp(15,11): error C2086:  "int srn1": Neudefinition
+C:\Users\lpran\Desktop\Coding\Projects\Learning\C++\Default Arguments, Parameters\Default Arguments, Parameters\Default Arguments, Parameters.cpp(12): message :  Siehe Deklaration von "srn1"
+C:\Users\lpran\Desktop\Coding\Projects\Learning\C++\Default Arguments, Parameters\Default Arguments, Parameters\Default Arguments, Parameters.cpp(15,16): warning C4552:  "+": Ergebnis des Ausdrucks nicht verwendet.
+C:\Users\lpran\Desktop\Coding\Projects\Learning\C++\Default Arguments, Parameters\Default Arguments, Parameters\Default Arguments, Parameters.cpp(16,11): error C2086:  "int srn2": Neudefinition
+C:\Users\lpran\Desktop\Coding\Projects\Learning\C++\Default Arguments, Parameters\Default Arguments, Parameters\Default Arguments, Parameters.cpp(13): message :  Siehe Deklaration von "srn2"
+C:\Users\lpran\Desktop\Coding\Projects\Learning\C++\Default Arguments, Parameters\Default Arguments, Parameters\Default Arguments, Parameters.cpp(16,17): warning C4552:  "+": Ergebnis des Ausdrucks nicht verwendet.
