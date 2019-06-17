@@ -1,4 +1,4 @@
-// First file in my github respo
+// First file in my github respority
 
 #include <iostream>
 #include "Practicing.h"
