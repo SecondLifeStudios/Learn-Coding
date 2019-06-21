@@ -1,0 +1,12 @@
+﻿  modelselection.cpp
+C:\Users\lpran\Desktop\Coding\Projects\Learning\C++\Composition\Composition\modelselection.h(6,22): error C2039:  "string": Ist kein Element von "std"
+C:\Users\lpran\Desktop\Coding\Projects\Learning\C++\Composition\Composition\predefined C++ types (compiler internal)(257): message :  Siehe Deklaration von "std"
+C:\Users\lpran\Desktop\Coding\Projects\Learning\C++\Composition\Composition\modelselection.h(6,44): error C2061:  Syntaxfehler: Bezeichner "string"
+C:\Users\lpran\Desktop\Coding\Projects\Learning\C++\Composition\Composition\modelselection.h(9,7): error C2039:  "string": Ist kein Element von "std"
+C:\Users\lpran\Desktop\Coding\Projects\Learning\C++\Composition\Composition\predefined C++ types (compiler internal)(257): message :  Siehe Deklaration von "std"
+C:\Users\lpran\Desktop\Coding\Projects\Learning\C++\Composition\Composition\modelselection.h(9,30): error C3646:  "selected_message": Unbekannter Überschreibungsspezifizierer
+C:\Users\lpran\Desktop\Coding\Projects\Learning\C++\Composition\Composition\modelselection.h(9,30): error C4430:  Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+C:\Users\lpran\Desktop\Coding\Projects\Learning\C++\Composition\Composition\modelselection.cpp(6,1): error C2511:  "modelselection::modelselection(std::string,modellist)": Überladene Memberfunktion nicht in "modelselection" gefunden
+C:\Users\lpran\Desktop\Coding\Projects\Learning\C++\Composition\Composition\modelselection.h(3): message :  Siehe Deklaration von "modelselection"
+C:\Users\lpran\Desktop\Coding\Projects\Learning\C++\Composition\Composition\modelselection.cpp(7,1): error C2550:  "modelselection::{ctor}": Initialisierungslisten für Konstruktoren dürfen nur in Konstruktordefinition stehen
+C:\Users\lpran\Desktop\Coding\Projects\Learning\C++\Composition\Composition\modelselection.cpp(12,44): error C2065:  "selected_message": nichtdeklarierter Bezeichner
