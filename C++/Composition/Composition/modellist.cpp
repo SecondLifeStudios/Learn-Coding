@@ -6,5 +6,5 @@ modellist::modellist(int a) {
 }
 
 void modellist::printAvailable() {
-	std::cout << "There are still " << available << " models left to explore! ";
+	std::cout << "There are still " << available << " models left to explore! " << std::endl;
 }

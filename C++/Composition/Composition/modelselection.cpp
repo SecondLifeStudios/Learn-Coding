@@ -10,6 +10,6 @@ modelselection::modelselection(std::string s, modellist a)
 
 void modelselection::print_selModel()
 {
-	std::cout << "You selected the model " << selected_message << " ! ";
+	std::cout << "You selected the model " << selected_message << "! ";
 	get_a.printAvailable();
 }
